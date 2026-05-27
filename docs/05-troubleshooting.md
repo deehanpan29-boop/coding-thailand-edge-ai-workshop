@@ -236,6 +236,6 @@ git push
 ## 🏥 Emergency Contact
 
 ถ้า TA ไม่ว่าง:
-1. ดู GitHub Discussions ของ workshop repo บน GitHub
+1. ดูใน [GitHub Discussions](https://github.com/SANCHAIE/coding-thailand-edge-ai-workshop/discussions) ของ workshop repo
 2. ถามทีมข้างๆ
 3. ลอง Edge Impulse forum: https://forum.edgeimpulse.com/
