@@ -10,13 +10,13 @@
 
 ## ข้อมูลทีม
 
-- **ชื่อทีม:** ____________xdthxrtjsrt_____
+- **ชื่อทีม:** THE Team
 - **สมาชิก:**
-  - Hacker: _________________
-  - Hipster: _________________
-  - Hustler: _________________
-- **Track ที่เลือก:** ☐ A (Motion)  ☐ B (Vision)  ☐ C (Environment)  ☐ D (Audio)
-- **ระดับความท้าทาย:** ☐ Basic  ☐ Intermediate  ☐ Advanced
+  - Hacker: นายเลิศวรรธน์ เตียวศิริรัตน์
+  - Hipster: นายณัฐดนัย ลือแรง
+  - Hustler: นางสาวสรารัตน์ ไชยวงศ์
+- **Track ที่เลือก:** / A (Motion)  ☐ B (Vision)  ☐ C (Environment)  ☐ D (Audio)
+- **ระดับความท้าทาย:** ☐ Basic  ☐ Intermediate  / Advanced
 
 ---
 
